@@ -6,9 +6,7 @@
 |-------------------|------------------------------------------------------------|
 | **Project**       | WooCommerce Laptop Ecommerce Store                         |
 | **Client**        | maituikas (Mait) - Estonia                                 |
-| **Developer**     | Tonni (A / Me)                                             |
-| **Domain**        | arvutipoisid.mtshop.ee                                     |
-| **Price**         | $350                                                       |
+| **Developer**     | Tonni (A / Me)                                                   |
 | **Timeline**      | 12 days delivery (extended by client - no deadline pressure)|
 | **Start Date**    | Jan 08, 2026                                               |
 | **Source Data**    | x-kom.pl (Polish laptop store)                             |
@@ -19,12 +17,6 @@
 ---
 
 ## Access Credentials Provided
-
-| Service    | Details                                      |
-|------------|----------------------------------------------|
-| **FTP**    | host: arvutipoisid.mtshop.ee                 |
-| **DB**     | host: d91289.mysql.zonevs.eu, db: d91289_arvutipoisid |
-| **WP Admin** | https://arvutipoisid.mtshop.ee/wp-admin   |
 
 ---
 
